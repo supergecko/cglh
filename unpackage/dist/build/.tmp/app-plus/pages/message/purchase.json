@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "认购",
+  "titleNView": {
+    "backgroundColor": "#efeff4",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {
+    "chun-lei-modal": "/components/chunLei-modal/chunLei-modal"
+  }
+}

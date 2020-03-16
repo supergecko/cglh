@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "谷歌验证",
+  "titleNView": {
+    "backgroundColor": "rgb(105,139,249)",
+    "titleColor": "#FFFFFF"
+  },
+  "usingComponents": {
+    "validcode": "/components/validCode"
+  }
+}

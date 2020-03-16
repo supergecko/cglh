@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "交易所详情",
+  "enablePullDownRefresh": true,
+  "titleNView": {
+    "backgroundColor": "#FFFFFF",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "充币",
+  "enablePullDownRefresh": true,
+  "titleNView": {
+    "backgroundColor": "#FFFFFF",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "qrcode": "/components/qrcode/qrcode"
+  }
+}

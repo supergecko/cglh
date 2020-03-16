@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "收益明细",
+  "titleNView": {
+    "backgroundColor": "rgb(245,245,245)",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {}
+}

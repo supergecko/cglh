@@ -1,0 +1,161 @@
+
+.redBg{
+	width: 750rpx;
+	height: 1790rpx;
+	background-size: 100% 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.whiteBg{
+	background-size: 100% 100%;
+	width: 710rpx;
+	height: 1394rpx;
+	margin-top: 360rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.invitationHead{
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 496rpx;
+}
+.invitationHeadText1{
+	font-size:26rpx;
+	font-family:PingFang SC;
+	font-weight:400;
+	color:rgba(136,136,136,1);
+	margin-top: 73rpx;
+}
+.invitationHeadText2{
+	font-size:56rpx;
+	font-family:PingFang SC;
+	font-weight:bold;
+	color:rgba(23,23,25,1);
+}
+.invitationHeadText3{
+	font-size:32rpx;
+	font-family:PingFang SC;
+	font-weight:400;
+	color:rgba(21,20,20,1);
+	margin-top: 26rpx;
+}
+.invitationHeadText4{
+	font-size:42rpx;
+	font-family:PingFang SC;
+	font-weight:500;
+	color:rgba(23,23,25,1);
+	margin-top: 30rpx;
+	margin-bottom: 30rpx;
+}
+.copyBTN{
+	width:210rpx;
+	height:60rpx;
+	border:2rpx solid rgba(103,186,250,1);
+	font-size:28rpx;
+	font-family:PingFang SC;
+	font-weight:400;
+	color:rgba(66,162,236,1);
+	line-height: 60rpx;
+	text-align: center;
+}
+.invitationMiddle{
+	width: 644rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 374rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	border-bottom: 2rpx dashed rgba(220,222,226,1); 
+	box-sizing: border-box;
+	padding-top: 70rpx;
+	padding-bottom: 60rpx;
+}
+.invitationMiddleText1{
+	font-size:32rpx;
+	font-family:PingFang SC;
+	font-weight:400;
+	color:rgba(21,20,20,1);
+}
+.invitationMiddleText2{
+	font-size:30rpx;
+	font-family:PingFang SC;
+	font-weight:400;
+	color:rgba(23,23,25,1);
+	text-align: center;
+}
+.invitationFooter{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	box-sizing: border-box;
+	padding-top: 70rpx;
+	padding-bottom: 60rpx;
+	height: 522rpx;
+}
+.invitationFooterText1{
+	font-size:32rpx;
+	font-family:PingFang SC;
+	font-weight:400;
+	color:rgba(21,20,20,1);
+}
+.invitationFooterText2{
+	width:232rpx;
+	height:232rpx;
+	border:2rpx solid rgba(51,51,51,1);
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.invitationFooterText3{
+	font-size:32rpx;
+	font-family:PingFang SC;
+	font-weight:400;
+	color:rgba(66,162,236,1);
+}
+

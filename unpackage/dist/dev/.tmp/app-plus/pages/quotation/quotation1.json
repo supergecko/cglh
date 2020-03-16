@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "行情",
+  "titleNView": {
+    "backgroundColor": "rgb(79,169,238)",
+    "titleColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}

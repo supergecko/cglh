@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\nwx-page.",[1],"data-v-e193b756 { background-color: #F8F8F8; }\n.",[1],"wrap.",[1],"data-v-e193b756 { width: 100%; }\n.",[1],"wrap .",[1],"main.",[1],"data-v-e193b756 { box-sizing: border-box; width: ",[0,706],"; height: ",[0,617],"; margin: ",[0,34]," auto; padding: ",[0,112]," 0 0 0; background-color: #fff; text-align: center; }\n",],undefined,{path:"./pages/safetyCenter/result.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/safetyCenter/result.wxml') } }));

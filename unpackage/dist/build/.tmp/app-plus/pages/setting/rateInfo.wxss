@@ -1,0 +1,35 @@
+
+.rateInfoBg{
+	width: 750rpx;
+	background-size: 100% 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.infoWhite{
+	width:710rpx;
+	height:846rpx;
+	background:rgba(255,255,255,1);
+	border-radius:28rpx;
+	margin-top: 36rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	box-sizing: border-box;
+	padding-top: 253rpx;
+}
+.infoText{
+	font-size:34rpx;
+	font-family:PingFang SC;
+	font-weight:500;
+	color:rgba(23,23,25,1);
+	width: 272rpx;
+	text-align: center;
+}
+

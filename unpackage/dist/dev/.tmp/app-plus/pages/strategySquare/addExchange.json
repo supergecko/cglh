@@ -1,0 +1,19 @@
+{
+  "navigationBarTitleText": "添加交易所",
+  "titleNView": {
+    "backgroundColor": "rgb(245,245,245)",
+    "titleColor": "#000000",
+    "buttons": [
+      {
+        "text": "客服",
+        "fontSize": "15px",
+        "color": "rgba(23,23,25,1)",
+        "float": "right"
+      }
+    ]
+  },
+  "usingComponents": {
+    "xfl-select": "/components/xfl-select/xfl-select",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

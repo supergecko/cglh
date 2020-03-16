@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "实名认证",
+  "titleNView": {
+    "backgroundColor": "#FFFFFF",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {}
+}

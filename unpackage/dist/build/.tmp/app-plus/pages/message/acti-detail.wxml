@@ -1,0 +1,1 @@
+<view class="content data-v-6bacfd72"><view class="annous data-v-6bacfd72"><text class="title data-v-6bacfd72">{{newInfo.post_title}}</text><view class="_br data-v-6bacfd72"></view><text class="detail data-v-6bacfd72">{{newInfo.published_time}}</text></view><view class="c-content _section data-v-6bacfd72"><rich-text nodes="{{newInfo.post_content}}"></rich-text></view></view>

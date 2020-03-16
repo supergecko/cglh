@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "导入API",
+  "titleNView": {
+    "backgroundColor": "rgb(60,160,236)",
+    "titleColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}

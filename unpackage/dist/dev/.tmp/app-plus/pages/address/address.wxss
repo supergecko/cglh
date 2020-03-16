@@ -1,0 +1,116 @@
+
+.itemBtnWarp {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	position: absolute;
+	top: 62rpx;
+	right: -272rpx;
+	padding-right: 30rpx;
+	padding-left: 30rpx;
+}
+.blueBtn {
+	width: 112rpx;
+	height: 112rpx;
+	background: rgba(91, 178, 246, 1);
+	border-radius: 50%;
+	font-size: 28rpx;
+	font-family: PingFang SC;
+	font-weight: 400;
+	color: rgba(255, 255, 255, 1);
+	line-height: 112rpx;
+	text-align: center;
+	margin-right: 15rpx;
+}
+.pinkBtn {
+	width: 112rpx;
+	height: 112rpx;
+	background: rgba(254, 156, 172, 1);
+	border-radius: 50%;
+	font-size: 28rpx;
+	font-family: PingFang SC;
+	font-weight: 400;
+	color: rgba(255, 255, 255, 1);
+	line-height: 112rpx;
+	text-align: center;
+}
+.ItemWarp {
+	width: 100%;
+	position: relative;
+	margin-top: 20rpx;
+}
+.addressBTn {
+	width: 646rpx;
+	height: 96rpx;
+	background: rgba(66, 162, 236, 1);
+	opacity: 0.94;
+	border-radius: 10px;
+	font-size: 32rpx;
+	font-family: PingFang SC;
+	font-weight: 400;
+	color: rgba(255, 255, 255, 1);
+	text-align: center;
+	line-height: 96rpx;
+	position: fixed;
+	bottom: 44rpx;
+}
+.addressWarp {
+	background: rgb(245, 245, 245);
+	width: 750rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	box-sizing: border-box;
+}
+.addressItem {
+	width: 714rpx;
+	height: 234rpx;
+	background: rgba(255, 255, 255, 1);
+	border-radius: 14rpx;
+	margin: 0 auto;
+	/* margin-top: 30upx; */
+	font-size: 34rpx;
+	font-family: PingFang SC;
+	font-weight: bold;
+	color: rgba(23, 23, 25, 1);
+}
+.itemHeader {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding-top: 38rpx;
+}
+.addressItemText2 {
+	font-size: 26rpx;
+	font-family: PingFang SC;
+	font-weight: 400;
+	color: rgba(119, 119, 119, 1);
+	margin-left: 30rpx;
+	margin-top: 36rpx;
+}
+.addressItemText3 {
+	font-size: 32rpx;
+	font-family: PingFang SC;
+	font-weight: 500;
+	color: rgba(23, 23, 25, 1);
+	margin-left: 30rpx;
+	margin-top: 10rpx;
+	width: 654rpx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+

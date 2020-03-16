@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "策略广场",
+  "disableScroll": true,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "ss-scroll-navbar1": "/components/ss-scroll-navbar1/ss-scroll-navbar1",
+    "strategy-index": "/components/strategyIndex/strategyIndex",
+    "strategy-collect": "/components/strategyCollect/strategyCollect",
+    "strategy-my": "/components/strategyMy/strategyMy",
+    "strategy-exchange": "/components/strategyExchange/strategyExchange",
+    "strategy-earning": "/components/strategyEarning/strategyEarning",
+    "strategy-rent": "/components/strategyRent/strategyRent",
+    "refresh": "/components/refresh"
+  }
+}

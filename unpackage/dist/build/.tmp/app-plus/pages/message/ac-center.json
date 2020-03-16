@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "活动中心",
+  "titleNView": {
+    "backgroundColor": "#efeff4",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {}
+}

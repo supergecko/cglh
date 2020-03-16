@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"wrap.",[1],"data-v-07350793 { width: 100%; font-family: \x27PingFang-SC-Bold\x27; }\n.",[1],"wrap .",[1],"main.",[1],"data-v-07350793 { box-sizing: border-box; padding: 0 ",[0,30]," ",[0,56],"; }\n.",[1],"wrap .",[1],"main .",[1],"header.",[1],"data-v-07350793 { margin-bottom: ",[0,37],"; }\n",],undefined,{path:"./pages/strategySquare/exDetail.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/strategySquare/exDetail.wxml') } }));

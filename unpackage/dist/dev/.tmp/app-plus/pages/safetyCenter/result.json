@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "认证结果",
+  "titleNView": {
+    "buttons": [
+      {
+        "type": "back",
+        "float": "left",
+        "color": "#000000"
+      }
+    ],
+    "backgroundColor": "#FFFFFF",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {}
+}

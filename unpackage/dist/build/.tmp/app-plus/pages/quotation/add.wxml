@@ -1,0 +1,1 @@
+<view class="wrap data-v-0f5c6d50"><u-search vue-id="1" dictArr="{{tobj}}" searchKey="aaa" data-event-opts="{{[['^selectIndexValue',[['getVal']]]]}}" bind:selectIndexValue="__e" class="data-v-0f5c6d50" bind:__l="__l"></u-search></view>

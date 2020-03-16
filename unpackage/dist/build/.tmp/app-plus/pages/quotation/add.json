@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "搜索",
+  "titleNView": {
+    "backgroundColor": "#42A2EC",
+    "titleColor": "#FFFFFF"
+  },
+  "usingComponents": {
+    "u-search": "/components/userzero-search/userzero-search"
+  }
+}

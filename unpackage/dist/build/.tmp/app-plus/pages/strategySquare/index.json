@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "策略广场",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "ss-scroll-navbar1": "/components/ss-scroll-navbar1/ss-scroll-navbar1"
+  }
+}

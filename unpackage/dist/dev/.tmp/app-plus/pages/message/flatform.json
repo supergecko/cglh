@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "平台公告",
+  "titleNView": {
+    "backgroundColor": "#FFFFFF",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {}
+}

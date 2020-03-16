@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "费率详情",
+  "titleNView": {
+    "backgroundColor": "rgb(241,241,243)",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {}
+}

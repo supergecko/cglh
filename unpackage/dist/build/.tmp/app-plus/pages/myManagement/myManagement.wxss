@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 默认计息中  浅蓝*/
+.managementItembTN{
+	width:104rpx;
+	height:44rpx;
+	border:1px solid rgba(66,162,236,1);
+	border-radius:4rpx;
+	text-align: center;
+	line-height: 44rpx;
+	font-size:24rpx;
+	font-family:PingFang SC;
+	font-weight:400;
+	color:rgba(66,162,236,1);
+	margin-left: 26rpx;
+}
+/* 待到账 绿色*/
+.BTN2{
+	border:1px solid rgba(7,169,60,1);
+	color:rgba(7,169,60,1);
+}
+/* 已到账 橙色*/
+.BTN3{
+	border:1px solid rgba(237,128,49,1);
+	color:rgba(6,161,57,1);
+}
+/* 认购中 蓝色*/
+.BTN4{
+	border:1px solid rgba(82,126,237,1);
+	color:rgba(57,105,228,1);
+}
+/* 流标 灰色*/
+.BTN5{
+	border:1px solid rgba(153,153,153,1);
+	color:rgba(136,136,136,1);
+}
+.managementItemMiddle{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size:32rpx;
+	font-family:PingFang SC;
+	font-weight:bold;
+	color:rgba(51,51,51,1);
+	margin-top: 20rpx;
+}
+.managementItemFooter{
+	font-size:26rpx;
+	font-family:PingFang SC;
+	font-weight:400;
+	color:rgba(136,136,136,1);
+}
+.managementItem{
+	height:236rpx;
+	background:rgba(255,255,255,1);
+	box-sizing: border-box;
+	padding-top: 37rpx;
+	padding-left: 30rpx;
+	padding-right: 30rpx;
+}
+.managementItemHead{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size:34rpx;
+	font-family:PingFang SC;
+	font-weight:500;
+	color:rgba(21,20,20,1);
+}
+

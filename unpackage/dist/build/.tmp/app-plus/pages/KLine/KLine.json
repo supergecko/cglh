@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "K线图",
+  "titleNView": {
+    "backgroundColor": "#181B2A",
+    "titleColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}

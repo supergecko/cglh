@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "资产",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {}
+}

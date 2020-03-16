@@ -1,0 +1,18 @@
+{
+  "navigationBarTextStyle": "white",
+  "backgroundColor": "#F8F8F8",
+  "navigationBarTitleText": "投资理财",
+  "navigationBarBackgroundColor": "#42A2EC",
+  "titleNView": {
+    "titleSize": "19px",
+    "titleColor": "#fff",
+    "buttons": [
+      {
+        "fontSize": "34",
+        "float": "left",
+        "color": "#fff"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

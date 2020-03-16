@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "邀请返佣",
+  "titleNView": {
+    "backgroundColor": "rgb(241,88,97)",
+    "titleColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}

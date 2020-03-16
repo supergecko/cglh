@@ -1,0 +1,131 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/quotation/rent",
+    "pages/strategySquare/collect",
+    "pages/strategySquare/index",
+    "pages/strategySquare/myStrategy",
+    "pages/strategySquare/myExchange",
+    "pages/strategySquare/earning",
+    "pages/strategySquare/rentRecord",
+    "pages/strategySquare/neuralNet",
+    "pages/strategySquare/exDetail",
+    "pages/strategySquare/alterExchange",
+    "pages/strategySquare/addExchange",
+    "pages/strategySquare/detail",
+    "pages/KLine/KLine",
+    "pages/quotation/quotation1",
+    "pages/assets/assets",
+    "pages/login/login",
+    "pages/setting/setting",
+    "pages/feedback/feedback",
+    "pages/safetyCenter/gooleCheck",
+    "pages/safetyCenter/realName",
+    "pages/quotation/apiManage",
+    "pages/quotation/importApi",
+    "pages/quotation/rentRecord",
+    "pages/quotation/selectStrategy",
+    "pages/quotation/add",
+    "pages/safetyCenter/result",
+    "pages/safetyCenter/resultSucc",
+    "pages/safetyCenter/phoneTest",
+    "pages/safetyCenter/phoneTest1",
+    "pages/address/addAddress",
+    "pages/message/detail",
+    "pages/address/editAddress",
+    "pages/safetyCenter/fundPwd",
+    "pages/message/detail",
+    "pages/setting/rateInfo",
+    "pages/internalTransfer/internalTransfer",
+    "pages/invitation/invitation",
+    "pages/message/info",
+    "pages/message/flatform",
+    "pages/message/acti-detail",
+    "pages/message/anno-detail",
+    "pages/message/item-detail",
+    "pages/message/invest",
+    "pages/message/invest2",
+    "pages/message/ac-center",
+    "pages/message/purchase",
+    "pages/message/system-info",
+    "pages/message/info-detail",
+    "pages/message/guide",
+    "pages/address/address",
+    "pages/rechargeRecord/rechargeRecord",
+    "pages/login/reg",
+    "pages/login/reset",
+    "pages/assets/pay",
+    "pages/assets/getmoney",
+    "pages/assets/transfer",
+    "pages/assets/moneytype",
+    "pages/assets/transverify",
+    "pages/assets/transverify2",
+    "pages/assets/checksucc",
+    "pages/assets/checksucc2",
+    "pages/login/reset1",
+    "pages/myManagement/myManagement",
+    "pages/myManagement/manageRecord",
+    "pages/aboutUs/aboutUs",
+    "pages/safetyCenter/safetyCenter",
+    "pages/safetyCenter/changePwd",
+    "pages/safetyCenter/closecheck",
+    "pages/safetyCenter/capitalPwd",
+    "pages/safetyCenter/capitalResetPwd",
+    "pages/reg/reg",
+    "pages/pwd/pwd",
+    "pages/user/user"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#0faeff",
+    "backgroundColor": "#fbf9fe"
+  },
+  "tabBar": {
+    "color": "#7a7e83",
+    "selectedColor": "#0faeff",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "static/footer/home1.png",
+        "selectedIconPath": "static/footer/home2.png"
+      },
+      {
+        "pagePath": "pages/quotation/quotation1",
+        "text": "行情",
+        "iconPath": "static/footer/Quotation1.png",
+        "selectedIconPath": "static/footer/Quotation2.png"
+      },
+      {
+        "pagePath": "pages/strategySquare/index",
+        "text": "策略出租",
+        "iconPath": "static/footer/lease1.png",
+        "selectedIconPath": "static/footer/lease2.png"
+      },
+      {
+        "pagePath": "pages/assets/assets",
+        "text": "资产",
+        "iconPath": "static/footer/Assets1.png",
+        "selectedIconPath": "static/footer/Assets2.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的",
+        "iconPath": "static/footer/user1.png",
+        "selectedIconPath": "static/footer/user2.png"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "创谷量化",
+  "compilerVersion": "2.4.6",
+  "usingComponents": {
+    "validcode": "/components/validCode"
+  }
+}

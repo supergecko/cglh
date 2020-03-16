@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的理财",
+  "titleNView": {
+    "backgroundColor": "#FFFFFF",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {}
+}

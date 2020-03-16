@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "选择策略",
+  "titleNView": {
+    "backgroundColor": "#FFFFFF",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {
+    "helang-checkbox": "/components/helang-checkbox/helang-checkbox",
+    "chun-lei-modal": "/components/chunLei-modal/chunLei-modal"
+  }
+}

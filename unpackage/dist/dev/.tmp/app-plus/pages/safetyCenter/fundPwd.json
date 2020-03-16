@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "资金密码",
+  "enablePullDownRefresh": true,
+  "titleNView": {
+    "backgroundColor": "#FFFFFF",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {
+    "chun-lei-modal": "/components/chunLei-modal/chunLei-modal",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "收益明细",
+  "enablePullDownRefresh": true,
+  "titleNView": {
+    "backgroundColor": "rgb(245,245,245)",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {}
+}

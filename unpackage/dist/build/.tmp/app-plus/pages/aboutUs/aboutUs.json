@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "关于我们",
+  "titleNView": {
+    "backgroundColor": "#FFFFFF",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {}
+}

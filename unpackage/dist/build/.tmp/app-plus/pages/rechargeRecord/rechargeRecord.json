@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "充提记录",
+  "enablePullDownRefresh": true,
+  "titleNView": {
+    "backgroundColor": "#FFFFFF",
+    "titleColor": "#000000"
+  },
+  "usingComponents": {}
+}

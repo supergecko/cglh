@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"aboutUsImg { width: ",[0,200],"; height: ",[0,200],"; }\n",],undefined,{path:"./pages/aboutUs/aboutUs.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/aboutUs/aboutUs.wxml') } }));

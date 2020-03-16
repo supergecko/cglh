@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "收银台",
+  "titleNView": {
+    "backgroundColor": "#FFFFFF",
+    "titleColor": "#000000",
+    "buttons": [
+      {
+        "text": "客服",
+        "fontSize": "15px",
+        "color": "rgba(23,23,25,1)",
+        "float": "right"
+      }
+    ]
+  },
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}
